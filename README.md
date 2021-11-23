@@ -22,7 +22,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -60,7 +59,7 @@ This is an example simple Telegram bot created with python to address some perso
    ```sh
      pip install -r requirements.txt
    ```
-3. Chat with [@botfather](https://telegram.me/BotFather) to get your Telegram Bot "API_KEY"
+3. Chat with [@botfather](https://telegram.me/BotFather) to get your Telegram Bot `"API_KEY"`
 
 4. [OPTIONAL] if you want your bot to be limited for some specific users, from those users telegram account chat with [@userinfobot](https://telegram.me/userinfobot) to get related user id
 
@@ -79,6 +78,12 @@ This is an example simple Telegram bot created with python to address some perso
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -94,6 +99,4 @@ This is an example simple Telegram bot created with python to address some perso
 [issues-url]: https://github.com/bah-/telegram_bot/issues
 [license-shield]: https://img.shields.io/github/license/bah-/telegram_bot.svg?style=for-the-badge
 [license-url]: https://github.com/bah-/telegram_bot/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+
